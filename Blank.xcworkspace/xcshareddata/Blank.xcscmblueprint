@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "965864AAC624255D4989676A83ED93C281AA8C87",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FF0D1CC58ECDF08032A9AE97C7FC3F0A20FCC464" : 0,
+    "965864AAC624255D4989676A83ED93C281AA8C87" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E3ED0648-5492-406D-B93B-481658494B75",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FF0D1CC58ECDF08032A9AE97C7FC3F0A20FCC464" : "Blank",
+    "965864AAC624255D4989676A83ED93C281AA8C87" : "MSBlank\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Blank",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Blank.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrscorpion\/MSBlank.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "965864AAC624255D4989676A83ED93C281AA8C87"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:jianxin2008\/Blank.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FF0D1CC58ECDF08032A9AE97C7FC3F0A20FCC464"
+    }
+  ]
+}
